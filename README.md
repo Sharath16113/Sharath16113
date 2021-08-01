@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sharath16113
+- 👋 Hi, this is @Sharath16113
 - 👀 I’m interested in knowing the tech things and love to playing with them
 - 🌱 I’m currently learning Python and Web development languages
 - 💞️ I’m looking to collaborate on Analysis and Database Management
